@@ -1,0 +1,46 @@
+.header {
+  text-align: center;
+}
+.header h1 {
+  margin-left: 2rem;
+}
+.icon {
+  float: right;
+  font-size: 1.5rem;
+}
+.frame {
+  border: none;
+  width: 30rem;
+  height: 30rem;
+  display: block;
+  margin: 0 auto;
+}
+.about, .music{
+  margin: 2rem;
+  line-height: 1.6;
+}
+.about h2, .music h2 {
+  border-bottom: solid 3px rgb(2, 2, 2);
+  border-radius: 5%;
+}
+.about img{
+  margin: 0 auto;
+  display: block;
+}
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
+.scroll{
+  float: right
+}
+.icon-top{
+  float: right;
+  font-size: 1.5rem;
+  transform: rotateX(180deg);
+}
+@media (max-width: 536px) {
+  .frame {
+    width: 25rem;
+  }
+}
