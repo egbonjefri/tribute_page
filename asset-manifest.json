@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tribute_page/static/css/main.1649b66f.css",
+    "main.js": "/tribute_page/static/js/main.5b82577d.js",
+    "index.html": "/tribute_page/index.html",
+    "main.1649b66f.css.map": "/tribute_page/static/css/main.1649b66f.css.map",
+    "main.5b82577d.js.map": "/tribute_page/static/js/main.5b82577d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1649b66f.css",
+    "static/js/main.5b82577d.js"
+  ]
+}
