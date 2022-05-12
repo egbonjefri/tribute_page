@@ -23,12 +23,13 @@ const element = <FontAwesomeIcon icon={faChevronDown} />
             <div className="about">
             <h2>About</h2>
         <p>
-            Osayomore Joseph, born in Ugha village near Benin City, 
-            Edo State Nigeria is one of the early pioneers of African 
-             Highlife music. Specifically, he championed the Edo Funk music genre, which is basically cosmopolitan dance music that integrated elements from the native Edo culture into new sound effects popular in West African night-clubs during the 80s.
+            Osayomore Joseph was born in a village called Ugha near Benin City, 
+            Edo State Nigeria. He is one of the early pioneers of African 
+             Highlife music. Specifically, he championed the Edo Funk music genre, 
+             which was basically cosmopolitan dance music that integrated elements from the native Edo culture into new sound effects popular in West African night-clubs during the 80s.
             His inspirational and educational  
-            lyrics, which were especially critical of the totalitarian regime in Nigeria at the time were mostly sung in Edo (but also in pidgin English) reached a wide 
-            audience worldwide.</p>
+            lyrics, which were especially critical of the totalitarian regime in Nigeria at the time were mostly sung in Edo (but also in pidgin English) reached a global 
+            audience.</p>
             <img alt='Old school pose of Osayomore Joseph' src='https://i.discogs.com/bfU_YXHq4N-v1LUxI6oaJmOYVRJYgGtQDDzLqbK4G6Y/rs:fit/g:sm/q:90/h:500/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2NzM2/ODAtMTYxNTgwMTE3/NS03NjkyLnBuZw.jpeg' />
             <figcaption>In December 1980, Joseph released
                 a new album, Oyeye (Supreme Disk) - a document chronicling is life
@@ -51,7 +52,7 @@ const element = <FontAwesomeIcon icon={faChevronDown} />
 
          </div>
          <div className='music'>
-             <h2>Discography</h2>
+             <h2>Some music...</h2>
          </div>
          </div>
      )

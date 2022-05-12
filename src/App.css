@@ -19,6 +19,9 @@
   margin: 2rem;
   line-height: 1.6;
 }
+.about a {
+  color: black;
+}
 .about h2, .music h2 {
   border-bottom: solid 3px rgb(2, 2, 2);
   border-radius: 5%;
@@ -42,5 +45,55 @@ figcaption {
 @media (max-width: 536px) {
   .frame {
     width: 25rem;
+    height: 25rem;
+  }
+  .about img {
+    height: 25rem;
+  }
+}
+
+@media (max-width: 486px) {
+  .header h1{
+    font-size: 1.5rem;
+  }
+  .icon {
+    font-size: 1rem
+  }
+  .icon-top {
+    font-size: 1rem
+  }
+  .header p {
+    font-size: 0.75rem;
+  }
+  .frame {
+    width: 20rem;
+    height: 20rem;
+  }
+}
+@media (max-width: 367px) {
+  .header h1{
+    font-size: 1rem;
+  }
+  .icon {
+    font-size: 0.5rem
+  }
+  .icon-top {
+    font-size: 0.5rem
+  }
+  .about, .music{
+    font-size: 0.5rem;
+  }
+  .about img{
+    height: 15rem;
+  }
+  .header p {
+    font-size: 0.5rem;
+  }
+  figcaption {
+    font-size: 0.3rem
+  }
+  .frame {
+    width: 15rem;
+    height: 15rem;
   }
 }
