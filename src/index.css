@@ -10,15 +10,16 @@ body {
   justify-content: center;
 }
 .btn, .btn-2{
-  background-color: rgba(24, 164, 245, 0.637);
+  background-color: rgba(131, 128, 128, 0.637);
   border: none;
   padding: 0.5rem 3rem;
   position: relative;
   margin: 1rem;
+  color: rgb(255, 255, 255);
 
 }
 .btn:hover, .btn-2:hover {
   text-decoration: underline;
-  background-color: cornflowerblue;
+  background-color: rgb(0, 0, 0);
   cursor: pointer;
 }

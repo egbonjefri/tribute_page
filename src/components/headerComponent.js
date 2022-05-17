@@ -32,7 +32,7 @@ const element = <FontAwesomeIcon icon={faChevronDown} />
             audience.</p>
             <img alt='Old school pose of Osayomore Joseph' src='https://i.discogs.com/bfU_YXHq4N-v1LUxI6oaJmOYVRJYgGtQDDzLqbK4G6Y/rs:fit/g:sm/q:90/h:500/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2NzM2/ODAtMTYxNTgwMTE3/NS03NjkyLnBuZw.jpeg' />
             <figcaption>In December 1980, Joseph released
-                a new album, Oyeye (Supreme Disk) - a document chronicling is life
+                his debut album, Oyeye (Supreme Disk) - a document chronicling is life
                 experiences growing up in benin city.
             </figcaption>
             <p>Read more about his exciting lifestyle, inspiration and recent abuction from this  

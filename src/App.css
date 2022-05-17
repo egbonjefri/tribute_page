@@ -7,6 +7,14 @@
 .icon {
   float: right;
   font-size: 1.5rem;
+  color: black;
+  border: none;
+  background-color: rgb(247, 243, 243);
+  transition: 0.35s ease-in-out;
+  cursor: pointer;
+}
+.icon:hover {
+  transform: rotateX(180deg);
 }
 .frame {
   border: none;
@@ -41,6 +49,14 @@ figcaption {
   float: right;
   font-size: 1.5rem;
   transform: rotateX(180deg);
+  color: black;
+  border: none;
+  background-color: rgb(247, 243, 243);
+  transition: 0.35s ease-in-out;
+  cursor: pointer;
+}
+.icon-top:hover {
+  transform: rotateX(0deg);
 }
 @media (max-width: 536px) {
   .frame {
