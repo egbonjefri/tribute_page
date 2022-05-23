@@ -38,6 +38,7 @@
 .about img{
   margin: 0 auto;
   display: block;
+  width: 20rem
 }
 figcaption {
   font-size: 10px;
@@ -64,9 +65,7 @@ figcaption {
     width: 25rem;
     height: 25rem;
   }
-  .about img {
-    height: 25rem;
-  }
+
 }
 
 @media (max-width: 486px) {
@@ -86,6 +85,9 @@ figcaption {
     width: 20rem;
     height: 20rem;
   }
+  .about img {
+    width: 15rem !important
+  }
 }
 @media (max-width: 367px) {
   .header h1{
@@ -100,8 +102,8 @@ figcaption {
   .about, .music{
     font-size: 0.5rem;
   }
-  .about img{
-    height: 15rem;
+  .about img {
+    width: 10rem !important
   }
   .header p {
     font-size: 0.5rem;

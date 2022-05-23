@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faChevronDown } from '@fortawesome/free-solid-svg-icons'
-
+import Item1 from '../A-1673680-1615801169-5782.jpeg'
 const element = <FontAwesomeIcon icon={faChevronDown} />
  
  export default function HeaderComponent () {
@@ -30,7 +30,7 @@ const element = <FontAwesomeIcon icon={faChevronDown} />
             His inspirational and educational  
             lyrics, which were especially critical of the totalitarian regime in Nigeria at the time were mostly sung in Edo (but also in pidgin English) reached a global 
             audience.</p>
-            <img alt='Old school pose of Osayomore Joseph' src='https://i.discogs.com/bfU_YXHq4N-v1LUxI6oaJmOYVRJYgGtQDDzLqbK4G6Y/rs:fit/g:sm/q:90/h:500/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2NzM2/ODAtMTYxNTgwMTE3/NS03NjkyLnBuZw.jpeg' />
+            <img alt='Old school pose of Osayomore Joseph' src={Item1} />
             <figcaption>In December 1980, Joseph released
                 his debut album, Oyeye (Supreme Disk) - a document chronicling is life
                 experiences growing up in benin city.
